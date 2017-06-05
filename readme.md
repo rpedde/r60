@@ -17,6 +17,8 @@ but without going into crazy planck type zones.
 
 The 2u spacebars are going to be tough to find, though.
 
+![Schematic](schematic.svg)
+
 Note well that I have not actually built this yet, so I don't know
 that it works.
 
