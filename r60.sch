@@ -2397,4 +2397,5 @@ $EndComp
 Wire Wire Line
 	7600 1300 8200 1300
 Connection ~ 8200 1300
+Connection ~ 2650 2950
 $EndSCHEMATC
