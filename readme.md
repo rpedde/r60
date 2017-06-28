@@ -22,5 +22,12 @@ The 2u spacebars are going to be tough to find, though.
 Note well that I have not actually built this yet, so I don't know
 that it works.
 
-Layouts and plates in the layouts directory, and I'll link
-pcb on oshpark when I get one made.
+Layouts and plates in the layouts directory.  Rev tags represent
+working versions I have generated boards from.
+
+## Errata ##
+
+Rev A:
+
+- soft reset doesn't seem to work.  have not investigated
+- 0805 diodes seem hard to find, but did find some at mouser
