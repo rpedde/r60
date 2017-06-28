@@ -49,9 +49,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 /* COL2ROW, ROW2COL, or CUSTOM_MATRIX */
 #define DIODE_DIRECTION COL2ROW
 
-#define BACKLIGHT_PIN B6
+//#define BACKLIGHT_PIN B6
 // #define BACKLIGHT_BREATHING
-#define BACKLIGHT_LEVELS 4
+//#define BACKLIGHT_LEVELS 4
 
 
 /* Debounce reduces chatter (unintended double-presses) - set 0 if debouncing is not needed */
